@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Cyber Security<br>🌱 I’m currently learning Android and Web fundamentals for development and security<br>⚡ Fun fact : Go Android
+🔭 I’m currently studying on Cyber Security<br>🌱 I’m currently learning Network and Web fundamentals for development and security<br>⚡ Fun fact : Mr.ROBOT
 
 
 ## 🌐 Socials:
